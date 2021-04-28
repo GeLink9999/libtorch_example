@@ -1,8 +1,8 @@
 # libtorch_example
-## cpp-pytorch
+## This example has been built in MAC os. There are two another examples in libtorch, you can also try them.
 PyTroch 1.0 preview - LOADING A PYTORCH MODEL IN C++
 
-Details refer to: https://shiftlab.github.io/pytorch_tutorials/advanced/cpp_export.html
+Details refer to:https://github.com/iamhankai/cpp-pytorch  
 
 Main requires: PyTroch 1.0, opencv, cmake
 
